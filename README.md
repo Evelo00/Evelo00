@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eveloxd@gmail.com)
 
 
-My name is **Eyver Vergara Lora**, I'm 26 years old and I'm a student of **Developer Full Stack**
+My name is **Eyver Vergara Lora**, I'm 27 years old and I'm a student of **Developer Full Stack**
 I am completely passionate about frontend development, graphs and also very interested in Mobile App Design. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends.
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
